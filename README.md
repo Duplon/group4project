@@ -1,4 +1,4 @@
-# Group 4 Project
+# Group 4 Project (GUI Test)
 
 - The purpose of this is to pull player information from the Hypixel API, which stores Minecraft (an online game) Player Data.
 - The User will filter the data using input from the terminal filtering on name data and game mode type.
