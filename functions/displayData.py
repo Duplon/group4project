@@ -6,7 +6,6 @@ def displayData(allPlayerData, selectedGame, gamemodeStats):
     guide = Application
     kills = getKillsDeaths.getKills(allPlayerData, selectedGame, gameModeStatsDict.gamemodeStats)
     deaths = getKillsDeaths.getDeaths(allPlayerData, selectedGame, gameModeStatsDict.gamemodeStats)
-    guide.
     guide.textBox1.delete('1.0', 'END')
     for counter in gamemodeStats[selectedGame]:
         try:
